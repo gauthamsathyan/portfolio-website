@@ -186,12 +186,13 @@ a {
     color: #CDFEAA;
   }
 
+Ends Here */
+
   h1 {
     text-transform: capitalize;
-    text-shadow: 1px 1px 1px red,
-                 2px 2px 1px red;
+    text-shadow: 1px 1px 1px grey,
+                 2px 2px 1px grey;
     text-align: center;
     letter-spacing: 2px;
   }
 
-Ends Here */
