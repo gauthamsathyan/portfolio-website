@@ -41,7 +41,6 @@ header{
 }
 
 
-
 .contact {
     display: flex;
     justify-content: center;
@@ -138,7 +137,7 @@ header{
 }
 
 body{
-    background-color: aliceblue;
+    background-color: white;
 }
 
 /*
