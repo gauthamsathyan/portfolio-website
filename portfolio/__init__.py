@@ -27,7 +27,7 @@ projects = [
 # ALL THE DIMENSIONS OF IMAGE SHOULD BE 1920X1080
 certifications = [ 
     {
-        "name": "AI Engineering",
+        "name": "IBM AI Engineering Professional Certificate",
         "thumb": "img/ai-engineer.jpg",
         "prod": "https://www.credly.com/badges/79dfbd63-5141-4e7a-972a-6e45ff53a089/public_url"
     },
@@ -37,7 +37,7 @@ certifications = [
         "prod": "https://www.coursera.org/account/accomplishments/certificate/LWCU3CWG7GRG"
     },
     {
-        "name": "TensorFlow Developer",
+        "name": "TensorFlow Developer Professional Certificate",
         "thumb": "img/tensorflow.jpg",
         "prod": "https://www.coursera.org/account/accomplishments/specialization/certificate/AYXSTXBMNW9J"
     },
