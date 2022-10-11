@@ -32,8 +32,8 @@ certifications = [
         "prod": "https://www.credly.com/badges/79dfbd63-5141-4e7a-972a-6e45ff53a089/public_url"
     },
     {
-        "name": "Algorithmic Toolbox",
-        "thumb": "img/algorithm.jpg",
+        "name": "Data Structures and Algorithm Specialization",
+        "thumb": "img/dsa.jpeg",
         "prod": "https://www.coursera.org/account/accomplishments/certificate/LWCU3CWG7GRG"
     },
     {
