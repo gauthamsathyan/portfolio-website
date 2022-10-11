@@ -11,7 +11,7 @@ projects = [
         "prod": "https://ieeexplore.ieee.org/document/9182388"
     },
      {
-        "name": "Algorithm Visualization using Python",
+        "name": "Algorithm visualization using Python",
         "thumb": "img/algorithm-visualization.png",
         "categories": ["Python", "Algorithm"],
         "prod": "https://github.com/gauthamsathyan/algorithm-visualizer"
