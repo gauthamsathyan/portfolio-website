@@ -10,11 +10,11 @@ projects = [
         "categories": ["IEEE", "Research Paper"],
         "prod": "https://ieeexplore.ieee.org/document/9182388"
     },
-    {
-        "name": "Personal finance tracking app with React",
-        "thumb": "img/glaucoma.jpg",
-        "categories": ["react", "javascript"],
-        "prod": "https://youtube.com"
+     {
+        "name": "Algorithm Visualization using Python",
+        "thumb": "img/algorithm-visualization.png",
+        "categories": ["Python", "Algorithm"],
+        "prod": "https://github.com/gauthamsathyan/algorithm-visualizer"
     },
     {
         "name": "REST API Documentation with Postman and Swagger",
